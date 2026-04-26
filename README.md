@@ -12,7 +12,7 @@ O jogador participa de um jogo de roleta onde:
 ## 🚀 Como Usar
 
 ### Pré-requisitos
-- Python 3.10 ou superior (o código usa `match/case`)
+- Python 3.14
 
 ### Executar o Jogo
 
